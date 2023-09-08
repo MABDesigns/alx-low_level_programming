@@ -10,7 +10,8 @@ int n = 10;
 int i;
 for (i = 0; i < n; i++)
 {
-printf("%i\n", i);
+printf("%i", i);
 }
+putchar('\n');
 return (0);
 }
