@@ -1,4 +1,4 @@
-#include "header.h"
+#include "main.h"
 /**
  * main - beginning
  * Description: task 1 0x02
