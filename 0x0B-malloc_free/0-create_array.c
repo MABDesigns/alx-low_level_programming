@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
- * create_array: function.
+ * create_array - function.
  * @size: size of the array.
  * @c: storaged char
  *
